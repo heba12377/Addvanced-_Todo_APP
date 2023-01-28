@@ -1,2 +1,6 @@
 # Addvanced-_Todo_APP
-added some feature
+### CRUD operation 
+### validator
+###adding some feature
+##### 1-catching error with using express-async-handler
+##### 2- 
